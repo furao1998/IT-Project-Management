@@ -1,2 +1,1 @@
-# IT-Project-Management
-LiChunliang's Homework
+这是李春良的项目管理作业
